@@ -1,6 +1,5 @@
-# FitnessTrack-Pro
-This app allows people to track their workouts, including sets, reps, weight, cardio, and more. With a clean and intuitive UI, the app aims to help users stay consistent with their fitness routines and achieve their goals.
-# FitTrack Pro
+
+# FitnessTrack Pro
 
 [![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org/)
