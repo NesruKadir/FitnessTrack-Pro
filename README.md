@@ -39,3 +39,55 @@ A modern, responsive fitness tracking application built with cutting-edge web te
    ```bash
    git clone https://github.com/yourusername/fittrack-pro.git
    cd fittrack-pro
+2. **Install dependencies**
+    ```bash
+    npm install
+3. **Start development server**
+     ```bash
+     npm run dev
+4. **Build for production**
+      ```bash
+      npm run build
+🛠️ Development
+| Command           | Description                       |
+| ----------------- | --------------------------------- |
+| `npm run dev`     | Start development server with HMR |
+| `npm run build`   | Build for production              |
+| `npm run preview` | Preview production build locally  |
+| `npm run lint`    | Run ESLint for code quality       |
+
+📁 Project Structure
+fittrack-pro/
+├── src/
+│   ├── sections/      # Page sections/components
+│   ├── hooks/         # Custom React hooks
+│   ├── types/         # TypeScript definitions
+│   ├── components/    # UI components (shadcn)
+│   ├── lib/           # Utility functions
+│   ├── App.tsx        # Root component
+│   └── main.tsx       # Entry point
+├── index.html         # HTML entry point
+├── tailwind.config.js # Tailwind configuration
+├── vite.config.ts     # Vite configuration
+└── package.json       # Dependencies & scripts
+
+🌐 Browser Support
+Chrome
+Fireforx
+Safari
+
+🤝Contributing 
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+🙏 Acknowledgments
+shadcn/ui for beautiful, accessible components
+Vite for the fast development experience
+Tailwind CSS for utility-first styling
+
+
